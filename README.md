@@ -1,7 +1,5 @@
 
-first version
-
-!Test AngularJs APP
+Test AngularJs APP
 ==================
 
 
@@ -13,7 +11,7 @@ first version
 
 		[$] git clone https://github.com/andresftenjo/testAngular.git
 
--  Then Navigate in the created PaintJs folder and run:
+-  Then Navigate in the created testAngular folder and run:
 
 		[$] npm install
 
@@ -29,7 +27,7 @@ This generates a new Localhost:3088 intance in your dev machinne, and That's It 
 
 ## Bugs
 
-- Feel free to open bugs that you found: [**PaintJs Bugs**](https://github.com/andresftenjo/testAngular/issues/new)
+- Feel free to open bugs that you found: [**testAngular Bugs**](https://github.com/andresftenjo/testAngular/issues/new)
 
 
 ## Contributing
