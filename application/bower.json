@@ -1,0 +1,13 @@
+{
+  "name": "TestingApp",
+  "version": "0.0.0",
+  "description": "Testing Frontend - Alquemedia",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.5.7",
+    "angular-ui-router": "~0.3.1",
+    "angular-animate": "~1.5.7",
+    "oclazyload": "~1.0.9"
+  }
+}
