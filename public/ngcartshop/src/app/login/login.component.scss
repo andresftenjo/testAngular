@@ -1,0 +1,12 @@
+.login-container {
+    width: 300px;
+    max-width: 100%;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  mat-form-field {
+    width: 100%;
+    margin-bottom: 15px;
+  }
